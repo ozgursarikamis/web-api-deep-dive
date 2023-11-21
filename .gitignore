@@ -1,0 +1,6 @@
+src/obj/**/*
+src/bin/**/*
+src/.DS_Store
+.DS_Store
+src/library.db-shm
+src/library.db-wal
