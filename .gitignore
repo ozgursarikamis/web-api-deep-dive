@@ -4,3 +4,10 @@ src/.DS_Store
 .DS_Store
 src/library.db-shm
 src/library.db-wal
+src/library.db
+src/library.db
+
+.idea
+library.db
+library.db-shm
+library.db-wal
